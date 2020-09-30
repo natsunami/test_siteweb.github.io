@@ -41,3 +41,5 @@ defaults:
 
 gems:
   - octopress-paginate
+
+theme: jekyll-theme-cayman
