@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
+avatar: https://avatars3.githubusercontent.com/u/52154100?s=400&u=fd1e6818eb26444f084fb005bf2c4af00d6a04dc&v=4
 
 url: "http://example.com" # the base hostname & protocol for your site
 
